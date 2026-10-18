@@ -4,7 +4,7 @@ A responsive website built with HTML, CSS, and JavaScript as part of my journey 
 
 ## 🚀 Live Demo
 
-[View Live Website](PASTE_YOUR_VERCEL_URL_HERE)
+[View Live Website](https://leno-website-dun.vercel.app/)
 
 ## 🛠️ Technologies Used
 
