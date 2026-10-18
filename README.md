@@ -1,6 +1,7 @@
 # Leno Website
 
 A responsive website built with HTML, CSS, and JavaScript as part of my journey in front-end web development.
+<img width="1318" height="534" alt="image" src="https://github.com/user-attachments/assets/60e507b0-b70a-4a23-9a71-5c9585abb136" />
 
 ## 🚀 Live Demo
 
